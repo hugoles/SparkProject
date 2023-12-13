@@ -21,10 +21,6 @@ The project utilizes Apache Spark in the Google Colab environment to perform the
 - 
 ## How to Use
 
-1. Clone the repository:
-
-## Open the notebook in the Google Colab environment:
-
   1. Access Google Colab.
   2. Import the notebook ETL_Construction_Data_Warehouse.ipynb.
   3. Execute the notebook cells as needed, following the provided instructions.
