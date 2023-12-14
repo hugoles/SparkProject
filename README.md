@@ -10,7 +10,7 @@ The project utilizes Apache Spark in the Google Colab environment to perform the
 
 - **ETL with Apache Spark:** Harness the power of Apache Spark to efficiently and distributedly extract, transform, and load data (Use both `pyspark.pandas` and `pyspark.sql` for enhanced data processing capabilities).
   
-- **Google Colab Environment:**
+- **Google Colab Environment(How to use):** 
    - Access [Google Colab](https://colab.research.google.com/).
    - Import the notebook `ETL_Construction_Data_Warehouse.ipynb`.
    - Execute the notebook cells as needed, following the provided instructions.
@@ -19,9 +19,3 @@ The project utilizes Apache Spark in the Google Colab environment to perform the
 
 - **Hive Tables:** Utilize Hive to load and save the data. The integration of Hive with the Apache Spark environment provides several advantages for this project like Schema-on-Read, SQL-Like Queries, Metadata Management, Scalability e Data Warehousing
 - 
-## How to Use
-
-  1. Access Google Colab.
-  2. Import the notebook ETL_Construction_Data_Warehouse.ipynb.
-  3. Execute the notebook cells as needed, following the provided instructions.
-  4. Explore and adapt the project according to your specific needs.
