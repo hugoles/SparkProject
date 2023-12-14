@@ -12,7 +12,7 @@ The project utilizes Apache Spark in the Google Colab environment to perform the
   
 - **Google Colab Environment(How to use):** 
    - Access [Google Colab](https://colab.research.google.com/).
-   - Import the notebook `ETL_Construction_Data_Warehouse.ipynb`.
+   - Import the notebook `PysparkProject.ipynb`.
    - Execute the notebook cells as needed, following the provided instructions.
 
 - **Data Warehouse Construction:** Build a robust Data Warehouse that meets the storage and data analysis needs.
