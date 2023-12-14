@@ -18,4 +18,4 @@ The project utilizes Apache Spark in the Google Colab environment to perform the
 - **Data Warehouse Construction:** Build a robust Data Warehouse that meets the storage and data analysis needs.
 
 - **Hive Tables:** Utilize Hive to load and save the data. The integration of Hive with the Apache Spark environment provides several advantages for this project like Schema-on-Read, SQL-Like Queries, Metadata Management, Scalability e Data Warehousing
-- 
+
